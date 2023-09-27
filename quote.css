@@ -1,0 +1,51 @@
+h1{
+    text-align: center;
+    font-size: 4rem;
+}
+.card
+{
+    width: 50rem;
+    height: 25rem;
+    background-color: aliceblue;
+    border: 1px solid;
+    padding: 10px;
+    box-shadow: 10px 10px #888888;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    border-radius: 10px;
+}
+#authores 
+{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 100%;
+     
+}
+#quotes p
+{
+    
+    font-size: 130%;
+}
+#quotesLine 
+{
+    text-align: center;
+    margin-top: 20%;
+}
+#authores
+{
+    text-align: center;
+    margin-top: 5%; 
+    margin-left: 46%;
+}
+.card .doublequotes img
+{  
+ width: 100px;
+  height: 100px; 
+  margin-bottom: -87px;
+ 
+}
+.doublequotes {
+         
+    padding: 0%;
+    margin: 0%;
+}
